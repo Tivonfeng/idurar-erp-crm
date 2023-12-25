@@ -1,3 +1,4 @@
 module.exports = {
-  purchase_now: 'Purchase Now',
+  date_format: 'Date Format',
+  server_url: 'Server Url',
 };
